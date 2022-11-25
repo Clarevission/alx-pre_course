@@ -1,2 +1,2 @@
-My second commit
-Main
+Updated README file My second commit
+
